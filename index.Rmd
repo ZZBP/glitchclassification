@@ -1,0 +1,33 @@
+---
+title: "Glitch Classification Manual"
+subtitle: "version 1.0"
+
+output: 
+  html_document:
+   theme: yeti
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+  Welcome to the tutorial website on glitch calssification deployment 
+
+
+__Content__
+
+ - [Introduction](Introduction.html)
+ 
+ - [Setting up a zooniverse project](project_setup.html) 
+ 
+ 
+ ******
+<br>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+<br>
+
+<a href="https://zzbp.github.io/glitchclassification.github.io/">R Markdown source for this website</a>
