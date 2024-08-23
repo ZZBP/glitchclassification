@@ -1,19 +1,19 @@
 ---
 title: "Glitch Classification Manual"
 subtitle: "version 1.0"
-
 output: 
   html_document:
-   theme: yeti
+    theme: yeti
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
 <br>
 
-  Welcome to the tutorial website on glitch calssification deployment 
+  Welcome to the tutorial website on glitch classification deployment 
 
 
 __Content__
